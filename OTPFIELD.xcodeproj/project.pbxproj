@@ -12,6 +12,7 @@
 		C79DA2C32158F2D90092B51D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C79DA2C12158F2D90092B51D /* Main.storyboard */; };
 		C79DA2C52158F2E40092B51D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C79DA2C42158F2E40092B51D /* Assets.xcassets */; };
 		C79DA2C82158F2E40092B51D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C79DA2C62158F2E40092B51D /* LaunchScreen.storyboard */; };
+		C79DA2D22158F3330092B51D /* OneTimePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C79DA2D12158F3330092B51D /* OneTimePasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C79DA2C42158F2E40092B51D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C79DA2C72158F2E40092B51D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C79DA2C92158F2E40092B51D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C79DA2D12158F3330092B51D /* OneTimePasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneTimePasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C79DA2BD2158F2D90092B51D /* AppDelegate.swift */,
 				C79DA2BF2158F2D90092B51D /* ViewController.swift */,
+				C79DA2D12158F3330092B51D /* OneTimePasswordViewController.swift */,
 				C79DA2C12158F2D90092B51D /* Main.storyboard */,
 				C79DA2C42158F2E40092B51D /* Assets.xcassets */,
 				C79DA2C62158F2E40092B51D /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				C79DA2C02158F2D90092B51D /* ViewController.swift in Sources */,
 				C79DA2BE2158F2D90092B51D /* AppDelegate.swift in Sources */,
+				C79DA2D22158F3330092B51D /* OneTimePasswordViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
